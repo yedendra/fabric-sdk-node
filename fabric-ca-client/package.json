@@ -7,8 +7,7 @@
     "url": "http://gerrit.hyperledger.org/r/fabric-sdk-node"
   },
   "engines": {
-    "node": ">=6.9.0 <7.0",
-    "npm": ">=3.10.0"
+    "node": ">=8.0.0"
   },
   "engine-strict": true,
   "engineStrict": true,
